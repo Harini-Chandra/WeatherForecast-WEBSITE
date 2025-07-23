@@ -1,0 +1,116 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+body
+{ 
+   background-image:url('https://i.pinimg.com/1200x/a6/cd/15/a6cd153ab369abeb726b668bc66b07a3.jpg');
+   background-size:cover;
+   background-repeat: no-repeat; 
+   background-position: center;
+}
+#info
+{
+    font-size: x-large;
+    text-align: center;
+    font-family:cursive;
+    font-weight: bold;
+    color: rgb(112, 13, 121);
+}
+h1
+{
+    text-align: center;
+    color:rgb(29, 48, 48);
+    font-size:xx-large;
+    font-weight: bolder;
+    font-family:Georgia;
+}
+#place
+{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-color: darkblue;
+    box-shadow: 4cm;
+    border-radius: 2cm;
+    border-width: 10px;
+    font-size: x-large;
+    font-family:monospace;
+    width:10cm;
+    color: darkblue;
+    background-color: transparent;
+}
+#get
+{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 2cm;
+    border-color:red;
+    box-sizing: 20px;
+    border-width: 10px;
+    color:whitesmoke;
+    font-size: larger;
+}
+input::placeholder
+{
+    color:darkblue;
+    font-size: larger;
+    font-family:monospace;
+}
+input 
+{
+    background-color: transparent;
+    font-family:monospace;
+}
+button{
+    background-color: transparent;
+    font-family:monospace;
+    width:5cm ;
+    font-weight: bold;
+  
+}
+#info1
+{
+     font-size: x-large;
+    text-align: center;
+    font-family:cursive;
+    font-weight: bold;
+    color: rgb(6, 16, 153);
+}
+#info2
+{
+     font-size:x-large;
+    text-align: center;
+    font-family:cursive;
+    color: rgb(6, 16, 153);
+    font-weight: bold;
+}
+#info3
+{
+     font-size: x-large;
+    text-align: center;
+    font-family:cursive;
+    color: rgb(6, 16, 153);
+    font-weight: bold;
+}
+#info4
+{
+     font-size: x-large;
+    text-align: center;
+    font-family:cursive;
+    color:rgb(6, 16, 153);
+    font-weight: bold;
+}
+#info5
+{
+     font-size: x-large;
+    text-align: center;
+    font-family:cursive;
+    color: rgb(6, 16, 153);
+    font-weight: bold;
+}
+
+
+
