@@ -47,10 +47,10 @@ h1
     margin: 20px auto;
     padding: 10px;
     border-radius: 2cm;
-    border-color:red;
+    border-color:darkorchid;
     box-sizing: 20px;
     border-width: 10px;
-    color:whitesmoke;
+    color:darkorchid;
     font-size: larger;
 }
 input::placeholder
